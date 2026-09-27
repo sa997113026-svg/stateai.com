@@ -1,0 +1,204 @@
+{
+  "videos": [
+    {
+      "video_id": "VID001",
+      "title": "Fundamentals of Survey Design in Official Statistics",
+      "competency_domain": "statistical",
+      "competency_tag": "Survey Design",
+      "duration_minutes": 42,
+      "difficulty": "Beginner",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Covers questionnaire design, sampling frames, pilot testing, and non-response handling for large-scale government surveys."
+    },
+    {
+      "video_id": "VID002",
+      "title": "Sampling Techniques for National Surveys",
+      "competency_domain": "statistical",
+      "competency_tag": "Sampling",
+      "duration_minutes": 38,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "Stratified, cluster, and multi-stage sampling methods used in NSS rounds, with worked examples."
+    },
+    {
+      "video_id": "VID003",
+      "title": "Introduction to National Accounts Statistics",
+      "competency_domain": "statistical",
+      "competency_tag": "National Accounts",
+      "duration_minutes": 55,
+      "difficulty": "Intermediate",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "GDP compilation methodology, production/income/expenditure approaches, base year revisions."
+    },
+    {
+      "video_id": "VID004",
+      "title": "Consumer Price Index: Concepts and Compilation",
+      "competency_domain": "statistical",
+      "competency_tag": "Price Statistics",
+      "duration_minutes": 33,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "CPI basket construction, base revision, and rural-urban weighting diagrams explained."
+    },
+    {
+      "video_id": "VID005",
+      "title": "Periodic Labour Force Survey (PLFS) Essentials",
+      "competency_domain": "statistical",
+      "competency_tag": "Labour Statistics",
+      "duration_minutes": 40,
+      "difficulty": "Beginner",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Definitions of employment/unemployment, worker-population ratio, and PLFS questionnaire structure."
+    },
+    {
+      "video_id": "VID006",
+      "title": "Crop Estimation Surveys and Agricultural Statistics",
+      "competency_domain": "statistical",
+      "competency_tag": "Agricultural Statistics",
+      "duration_minutes": 47,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "Crop cutting experiments, yield estimation, and remote-sensing inputs into agricultural statistics."
+    },
+    {
+      "video_id": "VID007",
+      "title": "Annual Survey of Industries: Methodology Deep Dive",
+      "competency_domain": "statistical",
+      "competency_tag": "Industrial Statistics",
+      "duration_minutes": 36,
+      "difficulty": "Advanced",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "ASI frame, factory-level data collection, and value-added computation for industrial statistics."
+    },
+    {
+      "video_id": "VID008",
+      "title": "SDG Indicator Framework for India",
+      "competency_domain": "statistical",
+      "competency_tag": "SDG Indicators",
+      "duration_minutes": 29,
+      "difficulty": "Beginner",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Mapping national indicator framework (NIF) to global SDG indicators and state-level monitoring dashboards."
+    },
+    {
+      "video_id": "VID009",
+      "title": "Metadata Standards and Data Documentation",
+      "competency_domain": "statistical",
+      "competency_tag": "Metadata Standards",
+      "duration_minutes": 25,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "SDMX and DDI metadata standards for microdata dissemination and international comparability."
+    },
+    {
+      "video_id": "VID010",
+      "title": "Data Quality Frameworks in Official Statistics",
+      "competency_domain": "statistical",
+      "competency_tag": "Data Quality Frameworks",
+      "duration_minutes": 31,
+      "difficulty": "Advanced",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "IMF DQAF and national quality assurance frameworks applied to survey and administrative data."
+    },
+    {
+      "video_id": "VID011",
+      "title": "Python for Data Analysis: Pandas Basics",
+      "competency_domain": "technical",
+      "competency_tag": "Python",
+      "duration_minutes": 50,
+      "difficulty": "Beginner",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Introduction to pandas dataframes, cleaning survey microdata, and basic aggregation."
+    },
+    {
+      "video_id": "VID012",
+      "title": "R Programming for Statistical Officers",
+      "competency_domain": "technical",
+      "competency_tag": "R",
+      "duration_minutes": 45,
+      "difficulty": "Beginner",
+      "source": "NSSTA Training Module",
+      "description": "Data import, tidyverse basics, and hypothesis testing in R for survey data analysis."
+    },
+    {
+      "video_id": "VID013",
+      "title": "SQL for Government Data Systems",
+      "competency_domain": "technical",
+      "competency_tag": "SQL",
+      "duration_minutes": 34,
+      "difficulty": "Intermediate",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Writing joins, aggregations, and window functions against departmental administrative databases."
+    },
+    {
+      "video_id": "VID014",
+      "title": "GIS Applications in Official Statistics",
+      "competency_domain": "technical",
+      "competency_tag": "GIS",
+      "duration_minutes": 39,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "QGIS basics, spatial joins, and mapping survey enumeration blocks."
+    },
+    {
+      "video_id": "VID015",
+      "title": "Data Visualization with Dashboards",
+      "competency_domain": "technical",
+      "competency_tag": "Data Visualization",
+      "duration_minutes": 28,
+      "difficulty": "Beginner",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Designing clear dashboards for e-Sankhyiki-style public data portals using Tableau/Power BI concepts."
+    },
+    {
+      "video_id": "VID016",
+      "title": "Introduction to AI and Machine Learning for Statisticians",
+      "competency_domain": "technical",
+      "competency_tag": "AI/ML",
+      "duration_minutes": 48,
+      "difficulty": "Intermediate",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "Supervised learning basics, use cases in imputation and anomaly detection for survey data."
+    },
+    {
+      "video_id": "VID017",
+      "title": "Cloud Computing Fundamentals for Government Officials",
+      "competency_domain": "technical",
+      "competency_tag": "Cloud Computing",
+      "duration_minutes": 32,
+      "difficulty": "Beginner",
+      "source": "NSSTA Training Module",
+      "description": "NIC Cloud services, storage vs. compute basics, and hosting government applications securely."
+    },
+    {
+      "video_id": "VID018",
+      "title": "APIs and System Integration for Public Digital Platforms",
+      "competency_domain": "technical",
+      "competency_tag": "APIs",
+      "duration_minutes": 30,
+      "difficulty": "Intermediate",
+      "source": "iGOT Karmayogi (mock)",
+      "description": "REST API basics, authentication, and integrating departmental systems with central portals."
+    },
+    {
+      "video_id": "VID019",
+      "title": "Cybersecurity and Data Privacy in Government Systems",
+      "competency_domain": "digital_governance",
+      "competency_tag": "Cybersecurity",
+      "duration_minutes": 37,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "Threat awareness, secure data handling practices, and compliance with government cybersecurity guidelines."
+    },
+    {
+      "video_id": "VID020",
+      "title": "Leadership and Change Management for Statistical Officers",
+      "competency_domain": "behavioural",
+      "competency_tag": "Leadership",
+      "duration_minutes": 44,
+      "difficulty": "Intermediate",
+      "source": "NSSTA Training Module",
+      "description": "Leading data-driven teams, managing organizational change during digital transformation initiatives."
+    }
+  ]
+}
